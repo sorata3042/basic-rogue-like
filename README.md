@@ -8,5 +8,6 @@ Rogue's goal is to reach the exit while evading the monster. The user pilots the
 To run the program:
 * Compilation: javac Main.java
 * Execution: java Main
+
 The program requires JavaFx.
 
